@@ -1,2 +1,2 @@
 # fax-tha-rabbit
-Space Invaders: Tutorial
+GameMaker Space Tutorial Project
