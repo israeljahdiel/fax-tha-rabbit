@@ -1,5 +1,5 @@
 instance_destroy(other)
-effect_create_layer(0, ef_explosion, x, y, 3, c_white)
+effect_create_layer(0, ef_explosion, x, y, 3, c_fuchsia)
 direction = random(360)
 
 if sprite_index == spr_rock_big {
