@@ -1,5 +1,5 @@
 instance_destroy(other)
-effect_create_layer(0, ef_explosion, x, y, 3, c_fuchsia)
+effect_create_layer(obj_game.effects_layer, ef_explosion, x, y, 3, c_fuchsia)
 obj_game.points += 50
 
 direction = random(360)
